@@ -1,5 +1,5 @@
 aiodns==2.0.0
-aiohttp==3.6.2
+aiohttp==3.7.4
 anyio==2.0.2
 astral==2.2
 async-timeout==3.0.1
